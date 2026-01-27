@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello, I'm Lucy 👋
+I'm a software developer based in the UK who cares about building clean, meaningful products with thoughtful UI. I enjoy incorporating creativity with technical engineering.
 
-<!--
-**lukaritri/lukaritri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Working On
+Wave - a study/focus timer web app inspired by ocean waves. This is a personal project where I'm exploring:
+- Product thinking and user experience
+- Front-end development with React + TypeScript
+*Currently a WIP*
 
-Here are some ideas to get you started:
+## Skills & Interests
+- Front-end: React, TypeScript, HTML, CSS
+- Design: Figma
+- Product development & UX: usability, polish, customer-focused
+- Other: back-end fundamentals, data, game dev, problem solving, learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Writing clean and maintainable front-end code
+- Thinking about the product as a whole, not just the code
+- UI/UX fundamentals and design systems
