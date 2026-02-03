@@ -3,7 +3,7 @@ I'm a software developer based in the UK who cares about building clean, meaning
 
 ## What I'm Working On
 Wave - a study/focus timer web app inspired by ocean waves. This is a personal project where I'm exploring:
-- Product thinking and user experience
+- Product design and user experience
 - Front-end development with React + TypeScript
 
 *Currently a WIP*
