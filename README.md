@@ -6,15 +6,13 @@ Wave - a study/focus timer web app inspired by ocean waves. This is a personal p
 - Product design and user experience
 - Front-end development with React + TypeScript
 
-*Currently a WIP*
-
 ## Skills & Interests
-- Front-end: React, TypeScript, HTML, CSS
+- Languages: Python, Java, JavaScript
+- Backend: Python, SQL
+- Frontend: React, CSS, HTML, Flask
 - Design: Figma
-- Product development & UX: usability, polish, customer-focused
-- Other: back-end fundamentals, data, game dev, problem solving, learning
+- Other: game development (Unity, C#), 3D graphics (JOGL)
 
 ## Currently Learning
-- Writing clean and maintainable front-end code
-- Thinking about the product as a whole, not just the code
-- UI/UX fundamentals and design systems
+- Web development
+- UI/UX
